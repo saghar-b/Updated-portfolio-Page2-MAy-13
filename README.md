@@ -1,18 +1,17 @@
 # 08 Project 1: Professional Materials
 ## Saghar Behinaein
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
+Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
+If you are opting out of career services, this is still a required assignment. Part of being a web developer means being a part of a community. Having a place to share your projects is necessary if you're applying for jobs, but it's also critical on your journey as a developer.
 
 ## Homework Requirements
+Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
 
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
+Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
 
-* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+Updated resume
 
-* Updated resume
-
-* Updated LinkedIn profile
+Updated LinkedIn profile
 
 ## my work
 * Updated portfolio featuring
@@ -33,8 +32,8 @@ If you are opting out of career services, this is *still a required assignment*.
 	* Screenshot of the deployed application
 
 1. Have a polished, mobile-responsive user interface.
-  * https://saghar-b.github.io/Updated-portfolio-April-18/
-  * https://github.com/saghar-b/Updated-portfolio-April-18
+  * [https://saghar-b.github.io/Updated-portfolio-April-18/](https://saghar-b.github.io/Updated-portfolio-Page2-MAy-13/)
+  * [https://github.com/saghar-b/Updated-portfolio-April-18](https://github.com/saghar-b/Updated-portfolio-Page2-MAy-13)
 
 
 
